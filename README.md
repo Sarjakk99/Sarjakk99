@@ -1,18 +1,10 @@
 <h1 align="center">Freelancer</h1>
-<h3 align="center">Data Science Professional 👨‍💻 </h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="500" alt="Coding">
+<h3 align="center">Doing Epic Sh!t👨‍💻 </h3>
+<img src="https://global.discourse-cdn.com/wanikanicommunity/original/4X/1/9/d/19d85e6c6d92de680aacd2863897b23f1b2c5143.gif" align="right" width="500" alt="Coding">
 
 <h3 align="left"> Other Github Accounts: </h3>
 <b> @Sarjakkothiya </b><br>
 <b> @sarjakkk </b>
-
-- 🔭 I’m currently working on **Automated Fraud Detection System**
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **Data Science projects**
-
-- 💬 Ask me about **Data Analysis, Visualization, Machine Leaning and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
