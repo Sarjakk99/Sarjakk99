@@ -1,4 +1,4 @@
-<h1 align="center"> I am Sarjak Kothiya </h1>
+<h1 align="center">Freelancer</h1>
 <h3 align="center">Data Science Professional 👨‍💻 </h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="500" alt="Coding">
 
